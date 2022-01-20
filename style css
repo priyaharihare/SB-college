@@ -1,0 +1,22 @@
+h1{
+    colour:black;
+    font-size: 25px;
+    text-align: center;
+}
+h2{
+    colour:grey
+    font-size: 15px;
+    text-align: center;
+}
+
+}.header
+{
+background-colour:blue;
+font-size: 15px;
+text-align:center;
+}
+.nav
+background-colour: black;
+color: white;
+display:flex;
+justify-content: space-between;
